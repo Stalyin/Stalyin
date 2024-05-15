@@ -14,7 +14,7 @@
 <h2 align= "center">About me</h2>
 
 <p align="center">
-  <span style="font-family:Verdana; font-size:20px; color:#333333;">
+  <span style="font-family:Verdana; font-size:20px; color:#4682B4;">
     "Hello! I'm Stalyin, a passionate programmer and web developer. Currently, I'm immersed in the fascinating world of technology, exploring new tools and techniques to enhance my skills as a web developer. I love tackling creative challenges and finding innovative solutions to complex problems."
   </span>
 </p>
