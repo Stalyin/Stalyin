@@ -13,7 +13,7 @@
 <div align= "center">
 <h2 align= "center">About me</h2>
 
-<p align="center"><font face="verdana">"Hello! I'm Stalyin, a passionate programmer and web developer. Currently, I'm immersed in the fascinating world of technology, exploring new tools and techniques to enhance my skills as a web developer. I love tackling creative challenges and finding innovative solutions to complex problems."</font></p>
+<p <font face="verdana">"Hello! I'm Stalyin, a passionate programmer and web developer. Currently, I'm immersed in the fascinating world of technology, exploring new tools and techniques to enhance my skills as a web developer. I love tackling creative challenges and finding innovative solutions to complex problems."</font></p>
 
 <h2>My Skills
 <p align="center">
