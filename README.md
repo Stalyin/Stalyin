@@ -1,12 +1,13 @@
 <div align="center">
-<h1 align="center">Hi! I'm <a href="https://aristi.dev">Stalyin</a> 👋</h1>
+<h1 align="center">Hi! I'm <a href="https://cristianpenaportfolio.netlify.app/">Stalyin</a> 👋</h1>
 </div>
 <img src="banner.svg">
 
 <div align="center">
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+593988205633?text=Hola!) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Stalyin)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+593988205633?text=Hola!) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Stalyin) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=stalyin16ac@gmail.com&su=Linkedin&body=Hola%20Stalyin)
+
 
 </div>
 
@@ -36,11 +37,11 @@
 <td width="50%">
 <h3 align="center">Doraemon Web</h3>
 <div align="center">
-<a href="https://github.com/Stalyin/Android-Expert" target="_blank"><img src="doraemon.webp" width="400" alt="Curso básico android"></a>
-<p><a href="https://github.com/Stalyin/Android-Expert" target="_blank">
+<a href="https://doraemonpeliculas.netlify.app/" target="_blank"><img src="doraemon.webp" width="400" alt="Curso básico android"></a>
+<p><a href="https://github.com/Stalyin/DoraemonWeb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://doraemonpeliculas.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Visualizar-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 </div>
@@ -50,14 +51,14 @@
 
 <h3 align="center">Weather app</h3>
 <div align="center">                                       
-<a href="https://github.com/Stalyin/SimpleAndroidMVVM" target="_blank"><img src="clima.png" width="400"  alt="Curso arquitectura MVVM"></a>
+<a href="https://weatherappcode.netlify.app/" target="_blank"><img src="clima.png" width="400"  alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/Stalyin/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/Stalyin/Weather-app" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://weatherappcode.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Visualizar-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 
